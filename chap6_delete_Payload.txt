@@ -1,0 +1,14 @@
+[RemoteTestNG] detected TestNG version 7.4.0
+StatusCode is :200
+PASSED: check_For_Successful_Delete_Execution
+
+===============================================
+    Default test
+    Tests run: 1, Failures: 0, Skips: 0
+===============================================
+
+
+===============================================
+Default suite
+Total tests run: 1, Passes: 1, Failures: 0, Skips: 0
+===============================================
